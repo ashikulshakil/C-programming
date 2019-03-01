@@ -38,11 +38,11 @@ int main()
                 m[k++]=a[i];
 
         }
-    }
+    }ssssssssssssssss 
     while(scanf("%d",&v)==1)
 
         printf("(%d, %d)\n",m[v],m[v]+2);
     return 0;
 	
-	SHakil SHakil Shakil sssss 
+	SHakil SHakil Shakil sssss sssssssssssssssssss 
 }
