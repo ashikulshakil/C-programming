@@ -3,8 +3,14 @@ Jamalpur ZIlaa School
 int main()
 {
     long long int a,n,i,b,c;
+<<<<<<< HEAD
      SHakil 
 	 SUST
+=======
+    Shakil Shak 
+	Shakil Shakil Shakil 
+	SHakil SHakil 
+>>>>>>> master
     while(scanf("%lld",&n)==1)
     {
         b=1;
@@ -21,7 +27,7 @@ int main()
         printf("%lld\n",c);
     }
     return 0;
-
+dddddddddddddddddddddddddddddd 
 }
 
 
