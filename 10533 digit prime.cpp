@@ -30,6 +30,7 @@ void sieve(int n)
                     mark[j]=1;
         }
     }
+	shakiiiilllll shakillll shakillll 
     for(k=0; k<sz; k++)
     {
         sum=0;
