@@ -2,7 +2,7 @@
 int main()
 {
     long long int a,n,i,b,c;
-
+    Shakil Shakil 
     while(scanf("%lld",&n)==1)
     {
         b=1;
