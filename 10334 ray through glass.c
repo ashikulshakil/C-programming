@@ -3,6 +3,8 @@ int main()
 {
     long long int a,n,i,b,c;
     Shakil Shak 
+	Shakil Shakil Shakil 
+	SHakil SHakil 
     while(scanf("%lld",&n)==1)
     {
         b=1;
@@ -19,7 +21,7 @@ int main()
         printf("%lld\n",c);
     }
     return 0;
-
+dddddddddddddddddddddddddddddd 
 }
 
 
