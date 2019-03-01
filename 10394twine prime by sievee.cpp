@@ -43,4 +43,6 @@ int main()
 
         printf("(%d, %d)\n",m[v],m[v]+2);
     return 0;
+	
+	SHakil SHakil Shakil sssss 
 }
